@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">👋 hey, I'm lawreNz1337<br/></h1>
+<p align="center">
+  <a href="https://lawrenz1337.dev">Personal website</a> •
+  <a href="https://www.linkedin.com/in/mykhailo-diachuk-1bb078180/">LinkedIn</a>
+</p>
 
 <!--
 **lawrenz1337/lawrenz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
